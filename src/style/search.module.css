@@ -1,0 +1,16 @@
+.searchContainer{
+    max-width: 500px;
+    margin: 20px auto;
+}
+.input{
+    border: none;
+    border-radius: 15px;
+    border-bottom: 1px solid rgb(182, 180, 180);
+    width: 100%;
+    padding: 20px;
+    font-size: 18px;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
+}
+.input:focus{
+    outline: none;
+}
